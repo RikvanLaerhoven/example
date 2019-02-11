@@ -1,2 +1,1 @@
-# example
-Example GitHub Repository
+Spambot
